@@ -1,0 +1,3 @@
+= LichenGraphql
+
+This project rocks and uses MIT-LICENSE. That's right.

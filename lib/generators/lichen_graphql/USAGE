@@ -1,0 +1,5 @@
+Description:
+    Adapt Rails models to work with GraphQL instead of traditional controllers.
+
+Example:
+    rails generate lichen_graphql:install
